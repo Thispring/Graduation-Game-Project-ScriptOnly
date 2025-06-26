@@ -11,5 +11,5 @@ Unity 엔진을 사용해 제작한 2D 카드 게임입니다. 기존 포커 규
 • 개발언어: C#<br/>
 • 플랫폼: PC<br/>
 
-## 동영상\n
+## 동영상
 https://youtu.be/RJ1uljOHJCw?si=xGgfcJFdFBSZg4kr
